@@ -147,7 +147,7 @@
   "github_api": "https://api.github.com/repos/Sumbogo28/godev_stickerlimited/git/trees/main?recursive=1",
   "category_mode": -1,
   "show_more_all_auto": true,
-  "show_more_all_auto_max": 12,
+  "show_more_all_auto_max": 8,
   "show_more_with_app_name": false,
   "hide_all_sticker": true,
   "more_sticker_url": [],
